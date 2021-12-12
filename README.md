@@ -1,4 +1,5 @@
-<!--<!DOCTYPE html>
+<p>Espero que gostem do álbum!</p>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
